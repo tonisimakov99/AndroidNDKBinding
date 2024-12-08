@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AndroidNDKBinding.Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "-o $(SolutionDir)AndroidNDKBinding -f asd -i $(ProjectDir)headers C:/Users/Anton/AppData/Local/Android/Sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/19/include $(ProjectDir)headers/x86_64-linux-android -n AndroidNDKBinding"
+    }
+  }
+}
